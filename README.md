@@ -12,7 +12,10 @@
 - ⚡ Fun fact: ...
 
 -->
-
+<p> 
+	I did this 
+	<a href="https://www.linkedin.com/posts/acorn-technology-ab_arduino-iot-esp8266-activity-6663719905550049283-sYNf" alt="LinkedIn"></a>
+</p>
 <p align="center">
 	<a href="https://github.com/jesperalmstrom"><img src="https://img.shields.io/github/followers/jesperalmstrom.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/jesper-almström"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
