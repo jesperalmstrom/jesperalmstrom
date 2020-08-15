@@ -14,7 +14,7 @@
 -->
 <p> 
 	I did this 
-	<a href="https://www.linkedin.com/posts/acorn-technology-ab_arduino-iot-esp8266-activity-6663719905550049283-sYNf" alt="LinkedIn"></a>
+	<a href="https://www.linkedin.com/posts/acorn-technology-ab_arduino-iot-esp8266-activity-6663719905550049283-sYNf"><img src="https://media-exp1.licdn.com/dms/image/C5622AQHzEvG8bQPg6A/feedshare-shrink_800/0?e=1600300800&v=beta&t=KskFyhF8yOJvD5hqCv0czUNADc70Pbkrw1JixM2rjcY" alt="LinkedIn"></a>
 </p>
 <p align="center">
 	<a href="https://github.com/jesperalmstrom"><img src="https://img.shields.io/github/followers/jesperalmstrom.svg?label=GitHub&style=social" alt="GitHub"></a>
