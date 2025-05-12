@@ -16,7 +16,7 @@ I'm passionate about optimizing cloud infrastructures, automating workflows, and
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
-![MacOs](https://img.shields.io/badge/MacOs-%23FCC624.svg?style=flat&logo=macow&logoColor=black)
+![MacOs](https://badgen.net/badge/icon/MacOS?icon=apple&label)
 
 
 ---
